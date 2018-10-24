@@ -1,6 +1,6 @@
 /* HORIZONTAL MENU */
 
-body,
+/*body,*/
 header h1 {
   margin: 0;
 }
@@ -39,7 +39,7 @@ main {
  'float' isn't ideal for layout, but works okay with two elements
 */
 
-/* 
+/*
 nav {
   flex-direction: column;
   width: 15%;
